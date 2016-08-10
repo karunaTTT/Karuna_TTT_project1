@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="hibernate-search-orm-5.5.4.Final">
+        <wb-resource deploy-path="/" source-path="/appClientModule"/>
+        <property name="java-output-path" value="/hibernate-search-orm-5.5.4.Final/build/classes"/>
+    </wb-module>
+</project-modules>

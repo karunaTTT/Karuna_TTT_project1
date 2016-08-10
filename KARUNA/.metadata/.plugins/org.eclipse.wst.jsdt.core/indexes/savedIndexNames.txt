@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+D:\KARUNA\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3704864893.index
+4259202299.index
+98344976.index
+862593009.index
+3581163120.index
+3451565058.index

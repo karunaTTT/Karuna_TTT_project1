@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="hibernate-search-orm-5.5.4.FinalEAR">
+        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <dependent-module archiveName="hibernate-search-orm-5.5.4.Final.jar" deploy-path="/" handle="module:/resource/hibernate-search-orm-5.5.4.Final/hibernate-search-orm-5.5.4.Final">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>

@@ -1,0 +1,13 @@
+package com.control;
+
+public class ProfileModel {
+
+	public interface ProfileService {
+
+	}
+
+	public interface Profile {
+
+	}
+
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="J2EE_IMPORT_APP_CLIENT">
+		<item value="C:\Program Files (x86)\eclipse\hibernate-search-5.5.4.Final\dist\hibernate-search-orm-5.5.4.Final.jar"/>
+		<item value="C:\Program Files (x86)\eclipse\hibernate-search-5.5.4.Final\dist\hibernate-search-engine-5.5.4.Final.jar"/>
+	</list>
+	<list key="MRU_RUNTIME_STORE">
+		<item value="NULL_RUNTIME"/>
+	</list>
+</section>
